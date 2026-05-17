@@ -12,7 +12,7 @@ TOKEN = os.getenv("DISCORD_TOKEN")
 
 # =====================================
 # CONFIG
-
+burn_history = []
 last_price = None
 
 @tasks.loop(minutes=5)
