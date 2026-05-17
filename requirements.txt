@@ -1,0 +1,6 @@
+discord.py
+python-dotenv
+requests
+feedparser
+py-algorand-sdk
+aiohttp
